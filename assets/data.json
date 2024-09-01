@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Napatsorn Jaiphaeo",
+        "email": "napatx@icloud.com",
+        "password": "1234",
+        "gender": "Female"
+      }
+    ]
+  }
+  
